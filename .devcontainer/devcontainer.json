@@ -1,0 +1,7 @@
+{
+    "image": "test:0.0.12",
+    "remoteUser": "ansible",
+    "settings": {
+        "terminal.integrated.shell.linux": "/bin/bash"
+    }
+}

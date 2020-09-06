@@ -1,5 +1,5 @@
 {
-    "image": "topping/ubuntu-ansible:0.0.1",
+    "image": "topping/devops-private-test:1",
     "mounts": [ 
         "source=/var/run/docker.sock,target=/var/run/docker.sock,type=bind",
         "source=${localEnv:HOME}${localEnv:USERPROFILE},target=/home/ansible,type=bind,consistency=cached"
